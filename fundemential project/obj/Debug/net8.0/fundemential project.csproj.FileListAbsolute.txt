@@ -1,0 +1,14 @@
+D:\c .net\fundemential project\fundemential project\obj\Debug\net8.0\fundemential project.GeneratedMSBuildEditorConfig.editorconfig
+D:\c .net\fundemential project\fundemential project\obj\Debug\net8.0\fundemential project.AssemblyInfoInputs.cache
+D:\c .net\fundemential project\fundemential project\obj\Debug\net8.0\fundemential project.AssemblyInfo.cs
+D:\c .net\fundemential project\fundemential project\obj\Debug\net8.0\fundemential project.csproj.CoreCompileInputs.cache
+D:\c .net\fundemential project\fundemential project\bin\Debug\net8.0\fundemential project.exe
+D:\c .net\fundemential project\fundemential project\bin\Debug\net8.0\fundemential project.deps.json
+D:\c .net\fundemential project\fundemential project\bin\Debug\net8.0\fundemential project.runtimeconfig.json
+D:\c .net\fundemential project\fundemential project\bin\Debug\net8.0\fundemential project.dll
+D:\c .net\fundemential project\fundemential project\bin\Debug\net8.0\fundemential project.pdb
+D:\c .net\fundemential project\fundemential project\obj\Debug\net8.0\fundemential project.dll
+D:\c .net\fundemential project\fundemential project\obj\Debug\net8.0\refint\fundemential project.dll
+D:\c .net\fundemential project\fundemential project\obj\Debug\net8.0\fundemential project.pdb
+D:\c .net\fundemential project\fundemential project\obj\Debug\net8.0\fundemential project.genruntimeconfig.cache
+D:\c .net\fundemential project\fundemential project\obj\Debug\net8.0\ref\fundemential project.dll

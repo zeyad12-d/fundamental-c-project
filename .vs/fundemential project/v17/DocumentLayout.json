@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c .net\\fundemential project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE7DC22-6434-47F0-A2E1-603002495EF3}|fundemential project\\fundemential project.csproj|d:\\c .net\\fundemential project\\fundemential project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE7DC22-6434-47F0-A2E1-603002495EF3}|fundemential project\\fundemential project.csproj|solutionrelative:fundemential project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c .net\\fundemential project\\fundemential project\\Program.cs",
+              "RelativeDocumentMoniker": "fundemential project\\Program.cs",
+              "ToolTip": "D:\\c .net\\fundemential project\\fundemential project\\Program.cs",
+              "RelativeToolTip": "fundemential project\\Program.cs",
+              "ViewState": "AgIAADwAAAAAFAAAAMAjwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:46:47.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
